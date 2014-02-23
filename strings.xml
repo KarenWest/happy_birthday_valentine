@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Happy Birthday Valentine!</string>
+    <string name="action_settings">Settings</string>
+    <string name="happybirthdayvalentine">Click in image to animate it! Happy 11th Birthday on Feb. 14, 2014, Peter!  You were a Valentine\'s Day gift to Mom, Dad and your sister!</string>
+    <string name="peterandsophie">Peter and Sophie at New Year\'s 2013 into 2014</string>
+    <string name="clicktoplayhappybirthdayvideo">Click Image! Happy Birthday Video!</string>
+    <string name="happyvalentinesday">Happy Valentine\'s Day!</string>
+    <string name="your_email_address">incognitodiscforums@gmail.com</string>
+    <string name="clicktosendemail">Click! Send Email!</string>
+
+</resources>
